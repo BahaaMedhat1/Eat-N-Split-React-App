@@ -6,7 +6,7 @@ A simple and interactive bill splitting app built with **React** that helps you 
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo](https://your-demo-link.vercel.app)
+👉 [View Live Demo](https://bahaamedhat1.github.io/Eat-N-Split-React-App/)
 
 ---
 
